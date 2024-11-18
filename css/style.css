@@ -34,3 +34,18 @@ h1{
 .date{
     margin-top: 0;
 }
+
+.tim1{
+    width: 50%;
+    height: auto;
+}
+
+.tim2{
+    width: auto;
+    height: 475px; /* Ho ispezionato la pagina e ricavato l'altezza dell'altra immagine */
+}
+
+.sub-image{
+    margin-top: 0;
+    margin-bottom: 0;
+}
