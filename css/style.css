@@ -1,0 +1,11 @@
+/* Regole intestazione */
+header{
+    background-color: #4EA1FF;
+    background-image: url(../img/pattern.png);
+}
+
+.logo{
+    width: 25%;
+    height: auto;
+    margin-top: 90px;
+}
