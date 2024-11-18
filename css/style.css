@@ -83,3 +83,27 @@ thead{
 .colored-line{
     background-color: #B1E6F1;
 }
+
+/* Regole footer */
+h3{
+    margin-top: 40px;
+}
+
+.white{
+    color: white;
+}
+
+.bg-pc{
+    background-image: url(../img/monitor.jpg);
+}
+
+.bg-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.bg-image{
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
