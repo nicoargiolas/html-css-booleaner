@@ -12,11 +12,14 @@ header{
 }
 
 /* Regole contenuto principale */
+
+    /* Proprietà titolo */
 h1{
     font-size: 55px;
     margin-bottom: 0;
 }
 
+    /* Proprietà sottotitolo */
 .subtitle{
     display: inline;
     font-size: 25px;
@@ -35,6 +38,7 @@ h1{
     margin-top: 0;
 }
 
+    /* Proprietà immagini */
 .tim1{
     width: 50%;
     height: auto;
@@ -45,11 +49,13 @@ h1{
     height: 475px; /* Ho ispezionato la pagina e ricavato l'altezza dell'altra immagine */
 }
 
+    /* Proprietà testi sotto le immagini */
 .sub-image{
     margin-top: 0;
     margin-bottom: 0;
 }
 
+    /* Proprietà testo */
 .text{
     font-size: 20px;
 }
@@ -57,6 +63,7 @@ h1{
 .inline{
     display: inline;
 }
+
 .bg-yellow{
     background-color: yellow;
 }
@@ -65,6 +72,7 @@ h1{
     margin-top: 18px;
 }
 
+    /* Proprietà tabella */
 ul{
     margin-top: 40px;
     padding-left: 20px;
