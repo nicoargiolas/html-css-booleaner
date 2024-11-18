@@ -69,3 +69,17 @@ ul{
     margin-top: 40px;
     padding-left: 20px;
 }
+
+.small-cell{
+    width: 25%;
+}
+
+thead{
+    color:white;
+    background-color: #20ABE0;
+    /* Non ho capito come colorare anche le linee tra le colonne */
+}
+
+.colored-line{
+    background-color: #B1E6F1;
+}
