@@ -51,14 +51,21 @@ h1{
 }
 
 .text{
-    display: inline;
     font-size: 20px;
 }
 
+.inline{
+    display: inline;
+}
 .bg-yellow{
     background-color: yellow;
 }
 
 .paragraph{
     margin-top: 18px;
+}
+
+ul{
+    margin-top: 40px;
+    padding-left: 20px;
 }
