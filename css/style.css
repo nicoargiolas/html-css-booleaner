@@ -1,5 +1,9 @@
+/* Non sono riuscito a togliere il bordo dall'header perché mi sposta tutto il contenuto della pagina formattando in generale con * e non voglio questo risultato
+Dall'header non riesco mettendo margin:0 e padding:0 forse dovrei creare un div e spaziare */
+
 /* Regole intestazione */
 header{
+    border-spacing: 0px;
     background-color: #4EA1FF;
     background-image: url(../img/pattern.png);
 }
@@ -73,6 +77,10 @@ h1{
 }
 
     /* Proprietà tabella */
+table{
+    border-collapse: collapse;
+}
+
 ul{
     margin-top: 40px;
     padding-left: 20px;
@@ -86,6 +94,7 @@ thead{
     color:white;
     background-color: #20ABE0;
     /* Non ho capito come colorare anche le linee tra le colonne */
+    text-align: left;
 }
 
 .colored-line{
